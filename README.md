@@ -37,7 +37,7 @@ conda activate "your environmentname"
 ```
 
 3. ## Datasets
-For our train and validating sets we used priorwork e[Punnappurath et. al.](https://github.com/abhijithpunnappurath/a-little-bit-more/tree/master/download_data_and_tst). The code is provided the in this github folder in matlab form to download our data. We trained our model using [MIT-Adove FiveK](https://data.csail.mit.edu/graphics/fivek/) and [Sintel](https://media.xiph.org/sintel/sintel-1k-png16/) dataset. We recommend to convert .mat file present in the github folder [Punnappurath et. al.](https://github.com/abhijithpunnappurath/a-little-bit-more/tree/master/download_data_and_tst) to python file to download the data.
+For our train and validating sets we used priorwork [Punnappurath et. al.](https://github.com/abhijithpunnappurath/a-little-bit-more/tree/master/download_data_and_tst). The code is provided the in this github folder in matlab form to download our data. We trained our model using [MIT-Adove FiveK](https://data.csail.mit.edu/graphics/fivek/) and [Sintel](https://media.xiph.org/sintel/sintel-1k-png16/) dataset. We recommend to convert .mat file present in the github folder [Punnappurath et. al.](https://github.com/abhijithpunnappurath/a-little-bit-more/tree/master/download_data_and_tst) to python file to download the data.
 
 To test our model we used kodak, and sintel data set which contain 50 images present in the same above github folder.
 
