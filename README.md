@@ -7,6 +7,8 @@ Our technique enhances low-bit-depth images by recovering detailed information f
 
 **Model's recovering images from low bit images with different amount of pixel value replaced from original image**
 
+![Pixel_Change](https://github.com/Adigo45/Image-Recovery/assets/86388354/c133b283-411e-43f4-a1a4-241323789d83)
+
 ![](Pixel_Modification.png)
 
 
