@@ -73,7 +73,7 @@ def eval_psnr(loader, model, eval_type=None, eval_bsize=None,
                 batch[k] = v.cuda()
 
             inp = (batch['inp']) 
-#             print(inp.size())
+            print(inp.size())
             if window_size is not 0:
                 
                 _, _, h_old, w_old = inp.size()
